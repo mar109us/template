@@ -33,7 +33,7 @@ let console_prints = 0
 
 function check_global_value() {
 
-    if (console_prints >= 50) {
+/*     if (console_prints >= 50) {
         console.clear()
         console_prints = 0
     }
@@ -47,7 +47,7 @@ function check_global_value() {
 
     )
 
-    console_prints += 1
+    console_prints += 1 */
 
 
 }
