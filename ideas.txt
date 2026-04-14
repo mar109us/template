@@ -1,0 +1,33 @@
+        MAKE IT WORK FIRST
+
+            MAKE IT GREAT LATER
+
+                MAKE IT FAST LAST
+
+    ____________________________
+
+            Current
+
+1
+
+2
+
+    ____________________________
+
+            Next
+
+1
+
+2
+
+    ____________________________
+
+            Future
+
+1
+
+2
+
+3
+
+4
